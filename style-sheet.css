@@ -1,0 +1,60 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+
+#h1-header{
+    background-color: rgb(65, 65, 65);
+    color: white;
+    text-align: center;
+    text-shadow: 1px rgb(65, 65, 65);
+    padding: 7px;
+}
+#img{
+    background-image: url("121.jpg");
+    height: 500px;
+}
+#about-us{
+    text-align: center;
+    color: rgb(233, 151, 92);
+}
+.form{
+    margin: 10px;
+}
+#h1-info{
+    text-align: center;
+    margin-top: 10px;
+}
+#h1-form{
+    text-align: center;
+}
+hr{
+    width: 550px;
+}
+
+
+#footer-navbar{
+    text-align: center;
+    background-color: rgb(80, 83, 87);
+    
+}
+/* 
+.ul-footer-navbar{
+    list-style: none;
+}
+.li-footer-navbar{
+    display: inline-block;
+    
+}
+.li-footer-navbar:after{
+    content:"|"
+}
+.li-footer-navbar:last-child::after {
+    content: ""
+} */
+.footer{
+    background-color: rgb(124, 170, 160);
+}
+.h5-footer{
+    color:white;
+}
